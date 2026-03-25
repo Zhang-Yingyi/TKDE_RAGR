@@ -12,11 +12,12 @@
 <p align="center">
   <a href="#-overview">Overview</a> •
   <a href="#-framework">Framework</a> •
-  <a href="#-environment-setup">Environment</a> •
+  <a href="#-motivation">Motivation</a> •
   <a href="#-repository-structure">Structure</a> •
+  <a href="#-environment-setup">Environment</a> •
+  <a href="#-data-layout">Data Layout</a> •
   <a href="#-pipeline">Pipeline</a> •
-  <a href="#-notes">Notes</a> •
-  <a href="#-citation">Citation</a>
+  <a href="#-dependencies">Dependencies</a>
 </p>
 
 ## ✨ Overview
