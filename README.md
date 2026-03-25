@@ -1,7 +1,7 @@
 # RAGR: Generative Recommendation with Review-Augmented User Sequences
 
 <p align="center">
-  <img src="./asset/framework.png" alt="RAGR Framework" width="92%">
+  <img src="./asset/framework.png" alt="RAGR Framework" width="93%">
 </p>
 
 <p align="center">
